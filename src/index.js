@@ -26,4 +26,4 @@ import registerServiceWorker from './registerServiceWorker';
 import './theme/globalStyle'
 
 ReactDOM.render(routes, document.getElementById('root'));
-registerServiceWorker();
+// registerServiceWorker();
